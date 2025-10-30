@@ -1,6 +1,6 @@
 id = "penumbra-plus"
-name = "Penumbra Plus Theme"
-version = "0.0.2"
+name = "Penumbra+"
+version = "0.0.3"
 schema_version = 1
 authors = ["everdrone"]
 description = "Zed port of Helix penumbra+"
